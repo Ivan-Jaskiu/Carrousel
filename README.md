@@ -2,7 +2,7 @@
 
 ![preview](./.github/coursel.png)
 
-Projeto construido do evento Next Level da Rocketseat.
+Projeto construido com ajuda da(@Rocketseat)
 
 [Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/Carrousel/index.html)
 
