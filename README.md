@@ -1,6 +1,6 @@
 # Carrousel de imagens
 
-![preview](./.github/.png)
+![preview](./.github/coursel.png)
 
 Projeto construido do evento Next Level da Rocketseat.
 
